@@ -1,0 +1,10 @@
+Requerimientos:
+R01: Se debe aplicar la conversion de Binario a Decimal correctamente.
+R02: Se debe aplicar la conversion de Decimal a Octal correctamente.
+
+Criterios:
+C01: Se debe tomar en cuenta todos los valores en el calculo. 
+
+Escenarios:
+E01: 001 = 1
+E02: 1001 = 11
