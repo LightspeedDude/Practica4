@@ -1,0 +1,10 @@
+Requerimientos
+R01: Debe realizar la conversion de binario a decimal.
+R02: Debe realizar la conversion de decimal a octal. 
+
+Criterios de Aceptacion
+C01: Debe realizar todos los calculos correctamente.
+
+Escenarios de Prueba
+E01: 001 = 1
+E02: 1001=11
